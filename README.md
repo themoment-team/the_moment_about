@@ -1,4 +1,4 @@
-# <img src="./img/logo_small.png" style="width: 30%; height: 30%;">
+# <img src="./img/logo_small.png" style="width: 150px; height: 40px;">
 
 **The_Moment** 는 학교가 불편한 순간을 쉽고 간편하게 기록할 수 있는 웹 서비스입니다.
 
