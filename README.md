@@ -1,6 +1,3 @@
- # <img src="./img/logo_small.png" style="width: 150px; height: 40px;">
-
-**The_Moment** 는 학교가 불편한 순간을 쉽고 간편하게 기록할 수 있는 웹 서비스입니다.
 
 ## 📄 페이지 내용
 
@@ -37,5 +34,6 @@
 **Design (진예원)**
 * figma 
 * Adobe XD
-## 디자인
+
+
 <img src="./img/The_moment_Design.png">
